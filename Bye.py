@@ -1,0 +1,1 @@
+print("Say bye to negativity")
