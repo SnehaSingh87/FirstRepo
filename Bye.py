@@ -1,1 +1,1 @@
-print("Say bye to negativity")
+print("Say bye to negativity to urself")
