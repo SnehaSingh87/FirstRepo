@@ -1,1 +1,1 @@
-print("Hello! This is Sneha from Amejhkbhjkbhjrica")
+print("Hello! This is Sneha from japan")
