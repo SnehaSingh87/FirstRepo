@@ -1,4 +1,9 @@
-print("Say bye to negativity to urself")
-print("commit 1")
-print("commit 2")
-print("commit 3")
+str="Sneha"
+
+i=len(str)-1
+s="";
+while i>=0:
+    s+=str[i]
+    i-=1;
+
+print(s)
